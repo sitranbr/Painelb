@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="occurrence_tab_title">
+        <item>Enviado</item>
+        <item>Pendente</item>
+    </string-array>
+
+    <string-array name="vtr_value">
+        <item>DT-1123</item>
+        <item>DT-1132</item>
+        <item>DT-1244</item>
+        <item>DT-2344</item>
+        <item>DT-3422</item>
+    </string-array>
+
+    <string-array name="check_list_tab_title">
+        <item>Veículo/condutor</item>
+        <item>Checklist</item>
+        <item>Imagem</item>
+        <item>Prévia</item>
+    </string-array>
+
+    <string-array name="fuel_quantity">
+        <item>1/4 de combustível</item>
+        <item>2/4 de combustível</item>
+        <item>3/4 de combustível</item>
+        <item>Tanque cheio</item>
+        <item>Na reserva</item>
+    </string-array>
+
+    <string-array name="create_occurrences_tab_title">
+        <item>Ocorrência</item>
+        <item>Veículo/condutor</item>
+        <item>Vítima</item>
+        <item>Testemunha</item>
+        <item>Imagem</item>
+        <item>Prévia</item>
+    </string-array>
+
+    <string-array name="type_of_occurrence">
+        <item>Atropelamento de pedestre</item>
+        <item>Atropelamento de animal</item>
+        <item>Capotamento</item>
+        <item>Colisão</item>
+        <item>Tombamento</item>
+        <item>Abalroamento</item>
+        <item>Choque</item>
+        <item>Pane mecânica</item>
+        <item>Pane seca</item>
+        <item>Veículo pegando fogo</item>
+        <item>Animal vivo na via</item>
+        <item>Animal morto na via</item>
+        <item>Via interditada</item>
+        <item>Recapeamento de via</item>
+        <item>Trecho em obra</item>
+        <item>Protesto</item>
+        <item>Outros</item>
+    </string-array>
+
+    <string-array name="perimeter">
+        <item>Km 0</item>
+        <item>Km 1 ao 4</item>
+        <item>Km 8 ao 12</item>
+        <item>Km 12 ao 18</item>
+        <item>Outros</item>
+    </string-array>
+
+    <string-array name="vehicle_document_type">
+        <item>CRLV</item>
+        <item>RENAVAM</item>
+        <item>CHASSI</item>
+        <item>VIS</item>
+    </string-array>
+
+    <string-array name="vehicle_type">
+        <item>Auto</item>
+        <item>Camioneta</item>
+        <item>Caminhão</item>
+        <item>Micro</item>
+        <item>Oficial</item>
+        <item>Bicicleta</item>
+        <item>Outros</item>
+    </string-array>
+
+    <string-array name="damage_category">
+        <item>Pequena monta</item>
+        <item>Média monta</item>
+        <item>Grande monta</item>
+        <item>Perda total</item>
+    </string-array>
+
+    <string-array name="vehicle_procedure">
+        <item>Veículo retido</item>
+        <item>Veículo removido</item>
+        <item>Veículo entregue ao condutor</item>
+        <item>Veículo entregue a condutor habilitado</item>
+        <item>Outros</item>
+    </string-array>
+
+    <string-array name="driver_document_type">
+        <item>CNH</item>
+        <item>RG</item>
+        <item>CPF</item>
+        <item>FUNCIONAL</item>
+        <item>CARTEIRA DE TRABALHO</item>
+        <item>OUTROS</item>
+    </string-array>
+
+    <string-array name="driver_procedure">
+        <item>Condutor liberado</item>
+        <item>Avaliado e liberado</item>
+        <item>Recusou atendimento</item>
+        <item>Hospitalizado</item>
+        <item>Abandonou o local</item>
+        <item>Outros</item>
+    </string-array>
+
+    <string-array name="victim_status">
+        <item>Leve</item>
+        <item>Grave</item>
+        <item>Fatal</item>
+        <item>Outros</item>
+    </string-array>
+
+    <string-array name="genre">
+        <item>Maculino</item>
+        <item>Feminino</item>
+    </string-array>
+
+    <string-array name="witness_document_type">
+        <item>CNH</item>
+        <item>RG</item>
+        <item>CPF</item>
+        <item>FUNCIONAL</item>
+        <item>CARTEIRA DE TRABALHO</item>
+        <item>OUTROS</item>
+    </string-array>
+
+    <string-array name="team_service">
+        <item>ALFA</item>
+        <item>BRAVO</item>
+        <item>CHARLIE</item>
+        <item>DELTA</item>
+        <item>ECO</item>
+        <item>FOX</item>
+        <item>GOLF</item>
+    </string-array>
+</resources>
